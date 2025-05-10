@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-blueviolet?style=flat&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Database-Firebase-orange?style=flat&logo=firebase" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ankanz1&show_icons=true&theme=radical" height="150" alt="Ankan's GitHub stats"  />
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=ankanz1&show_icons=true&theme=radical" height="150" alt="Ankan's GitHub stats"  /> -->
 
 </div
   
